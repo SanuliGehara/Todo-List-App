@@ -1,5 +1,5 @@
 # Todo-List-App
-My Todo List is a simple app to keep track of your daily tasks allowing you to add and remove todo tasks. It also displays the completed tasks. 
+This is a simple web application which is called **'My Todo List'** to keep track of your daily tasks allowing you to add and remove todo tasks and displaying the completed tasks. Built with CRUD operations  explore and learn React.
 
 ## Screenshots
 
